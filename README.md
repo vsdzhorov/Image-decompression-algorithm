@@ -1,1 +1,1 @@
-"# Image-decompression-algorithm" 
+RLE 8 decompression algorithm
